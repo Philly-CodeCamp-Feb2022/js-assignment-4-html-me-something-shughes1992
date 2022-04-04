@@ -1,7 +1,12 @@
 /* Write your CSS here! */
-.title {
+#mainHeading {
     font-size: x-large;
     text-align: center;
+    color: red;
+}
+
+body {
+    background-color: whitesmoke ;
 }
 
 .header2 {
@@ -12,3 +17,7 @@
 p {
     margin: 25px 50px 75px 100px;
   }
+
+#testP {
+    background-color: green;
+}
