@@ -1,12 +1,25 @@
 /* Write your CSS here! */
+
+/* Red color is completing Rule 3b */
+
+
 #mainHeading {
     font-size: x-large;
+    font:bolder;
     text-align: center;
     color: red;
+    text-shadow: 1px 1px 1px #ccc;
 }
 
 body {
     background-color: whitesmoke ;
+    margin: 8px;
+    display: block;
+}
+
+.intro {
+    font-size: large;
+
 }
 
 .header2 {
@@ -18,6 +31,17 @@ p {
     margin: 25px 50px 75px 100px;
   }
 
-#testP {
-    background-color: green;
-}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+
+ .bannerImage {
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+
+ }
