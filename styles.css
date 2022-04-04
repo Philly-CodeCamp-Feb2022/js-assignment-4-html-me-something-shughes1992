@@ -1,1 +1,10 @@
 /* Write your CSS here! */
+.title {
+    font-size: x-large;
+    text-align: center;
+}
+
+.header2 {
+    font-size: small;
+    text-align: center;
+}
